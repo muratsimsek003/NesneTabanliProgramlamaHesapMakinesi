@@ -1,1 +1,2 @@
 # NesneTabanliProgramlamaHesapMakinesi
+Nesne tabanlı Programlamanın mantığını anlayabilmek için hesap makinesi uygulaması
